@@ -22,4 +22,6 @@ I've really enjoyed all of the work I've been introduced to so far, but my favor
 *There are new resources being presented here now that I'm eager to dive into over the next few days*
 **I'm so excited for classes to begin soon!** :clap:
 
+[Link to Issue] (https://github.com/TIY-LR-FEE-2015-Fall/assignments/issues/1)
+
 
